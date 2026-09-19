@@ -5,7 +5,7 @@
 [![Device](https://img.shields.io/badge/Device-M5Cardputer-00A8E8.svg)](https://docs.m5stack.com/en/device/Cardputer)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-![banner](docs/banner.jpg)
+<p align="center"><img src="docs/banner.jpg" alt="banner" style="max-width:60%"></p>
 
 An AI chat client for the **M5Stack Cardputer** running MicroPython / UIFlow2. It connects to any OpenAI-compatible API service (`/chat/completions`) and lets you chat directly from the device's keyboard and 1.28" display.
 
