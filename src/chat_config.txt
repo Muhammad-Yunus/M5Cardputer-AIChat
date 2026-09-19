@@ -1,0 +1,2 @@
+BASE_URL=<change-with-your-open-ai-compatible-base-url>
+TOKEN=Bearer <change-with-your-open-ai-compatible-token>
