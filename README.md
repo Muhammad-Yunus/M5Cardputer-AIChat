@@ -68,7 +68,7 @@ The web configuration module (`webcfg.py`) is loaded **only** when entering conf
 ## Project Structure
 
 ```
-M5Carputer-AIChat/
+M5Cardputer-AIChat/
 ├── src/
 │   ├── main.py          # Main application (~1700 lines)
 │   ├── webcfg.py        # Web config server (loaded on-demand)
